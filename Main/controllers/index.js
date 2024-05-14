@@ -10,7 +10,7 @@ router.use('/', homeRoutes);
 
 
 
-//api routes
+//api routes - CRUD
 
 router.use('/api', apiRoutes);
 
